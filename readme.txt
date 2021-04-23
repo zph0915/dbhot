@@ -18,8 +18,8 @@
 	git status
 	注：新增的文件和修改过的文件都是红色
 4.管理指定文件（红变绿）
-	git add  文件名
-	git add  .
+	git add  文件名  （单独文件）
+	git add  .    （全部文件）
 5.个人信息配置 ： 用户名 邮箱
 	git config --global user.email '邮箱'
 	git config --global user.name '姓名'
